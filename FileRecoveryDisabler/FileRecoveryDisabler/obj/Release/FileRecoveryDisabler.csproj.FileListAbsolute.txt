@@ -1,0 +1,12 @@
+c:\users\loai waleed\documents\visual studio 2017\Projects\FileRecoveryDisabler\FileRecoveryDisabler\bin\Release\FileRecoveryDisabler.exe.config
+c:\users\loai waleed\documents\visual studio 2017\Projects\FileRecoveryDisabler\FileRecoveryDisabler\bin\Release\FileRecoveryDisabler.exe
+c:\users\loai waleed\documents\visual studio 2017\Projects\FileRecoveryDisabler\FileRecoveryDisabler\bin\Release\FileRecoveryDisabler.pdb
+c:\users\loai waleed\documents\visual studio 2017\Projects\FileRecoveryDisabler\FileRecoveryDisabler\obj\Release\FileRecoveryDisabler.csprojResolveAssemblyReference.cache
+c:\users\loai waleed\documents\visual studio 2017\Projects\FileRecoveryDisabler\FileRecoveryDisabler\obj\Release\FileRecoveryDisabler.exe
+c:\users\loai waleed\documents\visual studio 2017\Projects\FileRecoveryDisabler\FileRecoveryDisabler\obj\Release\FileRecoveryDisabler.pdb
+E:\AntiData Recovery\Sources\FileRecoveryDisabler\FileRecoveryDisabler\bin\Release\FileRecoveryDisabler.exe.config
+E:\AntiData Recovery\Sources\FileRecoveryDisabler\FileRecoveryDisabler\bin\Release\FileRecoveryDisabler.exe
+E:\AntiData Recovery\Sources\FileRecoveryDisabler\FileRecoveryDisabler\bin\Release\FileRecoveryDisabler.pdb
+E:\AntiData Recovery\Sources\FileRecoveryDisabler\FileRecoveryDisabler\obj\Release\FileRecoveryDisabler.csprojResolveAssemblyReference.cache
+E:\AntiData Recovery\Sources\FileRecoveryDisabler\FileRecoveryDisabler\obj\Release\FileRecoveryDisabler.exe
+E:\AntiData Recovery\Sources\FileRecoveryDisabler\FileRecoveryDisabler\obj\Release\FileRecoveryDisabler.pdb

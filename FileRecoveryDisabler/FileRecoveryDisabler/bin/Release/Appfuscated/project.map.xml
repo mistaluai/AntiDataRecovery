@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Node xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+  NodeType="AppfuscatorMap">
+  <ProjectInfo
+    Version="2.6.0.30783"
+    Created="2018-06-24 20:53:23Z" />
+  <Childs>
+    <Node
+      NodeType="Assembly"
+      OldName="FileRecoveryDisabler"
+      NewName="FileRecoveryDisabler">
+      <AssemblyInfo
+        Name="FileRecoveryDisabler"
+        Version="1.0.0.0"
+        AssemblyId="b2278c1c-6757-47dc-a87b-5b61e2891406"
+        FileName="FileRecoveryDisabler.exe">
+        <Sources>
+          <AssemblyInfo
+            Name="FileRecoveryDisabler"
+            Version="1.0.0.0"
+            AssemblyId="b2278c1c-6757-47dc-a87b-5b61e2891406"
+            FileName="FileRecoveryDisabler.exe" />
+        </Sources>
+      </AssemblyInfo>
+      <Childs>
+        <Node
+          NodeType="Type"
+          OldName="&lt;Module&gt;"
+          NewName="&lt;Module&gt;"
+          ExcludedByReasons="ModuleType" />
+        <Node
+          NodeType="Type"
+          OldName="FileRecoveryDisabler.Program"
+          NewName="&#x1;">
+          <Childs>
+            <Node
+              NodeType="Method"
+              OldName="System.Void Main(System.String[])"
+              NewName="System.Void &#x1;(System.String[])" />
+            <Node
+              NodeType="Method"
+              OldName="System.Void .ctor()"
+              NewName="System.Void .ctor()"
+              ExcludedByReasons="ConstructorMethod" />
+          </Childs>
+        </Node>
+      </Childs>
+    </Node>
+  </Childs>
+</Node>
